@@ -1,0 +1,32 @@
+{
+    "id": "1B007EE8",
+    "path": "~/Documents/GitHub/cartography_2023/europe_drunk_lonely/website/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "1904215192",
+    "contents": "",
+    "dirty": false,
+    "created": 1680092249538.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "6",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "1716:766",
+        "docOutlineSize": "110"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680096838,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680096839002,
+    "read_only": false,
+    "read_only_alternatives": []
+}
